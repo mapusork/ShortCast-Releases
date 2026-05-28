@@ -1,9 +1,5 @@
 # ShortCast — Releases
-
-Bu repository **ShortCast** masaüstü uygulamasının **public release dosyalarını** (Windows installer, blockmap, latest.yml) barındırır.
-
-- **Ürün:** [ShortCast](https://github.com/mapusork/ShortCast) — YouTube 7/24 canlı yayın yöneticisi
-- **Web sitesi & lisans:** https://yayin.app
+- **Ürün:**  YouTube 7/24 canlı yayın yöneticisi
 - **Son sürüm:** sağ taraftaki **Releases** sekmesinden indirin.
 
 ## Kurulum
@@ -15,11 +11,4 @@ Bu repository **ShortCast** masaüstü uygulamasının **public release dosyalar
 ## Otomatik güncelleme
 
 ShortCast açıldığında bu repodaki son sürümü kontrol eder ve yeni sürüm varsa otomatik indirir/uygular.
-
-## Sorun bildirimi
-
-Hata veya öneri için: [yayin.app](https://yayin.app) üzerinden iletişime geçin.
-
 ---
-
-Kaynak kod özel bir repoda tutulur; release artifact'leri burada açıkça yayınlanır.
